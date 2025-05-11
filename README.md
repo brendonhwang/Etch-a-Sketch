@@ -13,8 +13,3 @@ Etch-a-Sketch is a simple web-based drawing tool where users can interact with a
 - HTML
 - CSS
 - JavaScript
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Etch-a-Sketch.git
